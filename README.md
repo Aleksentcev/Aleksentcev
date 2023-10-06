@@ -4,7 +4,6 @@
 
 <div align="center">
   
-<a href="mailto:mikhailaleksentcev@yandex.ru"><img src="https://img.shields.io/badge/yandex-%23FF0000.svg?&style=for-the-badge&logo=lol&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-mikhailaleksentcev%40yandex.ru-red)](mailto:mikhailaleksentcev@yandex.ru)
 [![Telegram](https://img.shields.io/badge/aleksentcev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/aleksentcev)](https://t.me/aleksentcev)
 </div>
