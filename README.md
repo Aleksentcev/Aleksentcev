@@ -5,7 +5,7 @@
 <h2 align="center">My socials</h2>
 
 <div align="center">
-<img src="https://img.shields.io/badge/mikhailaleksentcev@yandex.ru-%23FF0000.svg?&style=for-the-badge&logo=yandex&logoColor=white&link=mailto:mikhailaleksentcev@yandex.ru" />
+<img src="https://img.shields.io/badge/mikhailaleksentcev@yandex.ru-%23ed4830.svg?&style=for-the-badge&logo=yandex&logoColor=white&link=mailto:mikhailaleksentcev@yandex.ru" />
 
 [![Telegram](https://img.shields.io/badge/aleksentcev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/aleksentcev)](https://t.me/aleksentcev)
 </div>
