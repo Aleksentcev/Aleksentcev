@@ -18,4 +18,3 @@ A backend developer from Russia
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksentcev)](https://github.com/Aleksentcev)
 
 </div>
-
